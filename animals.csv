@@ -1,0 +1,101 @@
+animal_id,type,breed,sex,age,status,location,name
+18502,Cat,Orange Tabby,F,2,Adoptable,Foster,Honey
+18510,Cat,Munchkin,F,8,Adoptable,Foster,Lou
+18518,Dog,Pit Bull Lab Mix,M,3,Processing,Kennel,Phil
+18526,Dog,American Bulldog,M,2,Adoptable,Kennel,Gus
+18534,Dog,Jack Russell Terrier,M,6,Processing,Kennel,
+18542,Dog,American Bulldog,M,5,Hold,Kennel,
+18550,Dog,Jack Russell Terrier,F,2,Adoptable,Kennel,
+18558,Dog,Pit Bull Lab Mix,M,7,Processing,Kennel,Snuffles
+18566,Cat,Bombay,F,3,Adoptable,Kennel,Boogie
+18574,Dog,Beagle Mix,F,8,Hold,Kennel,
+18582,Cat,American Shorthair,M,9,Adoptable,Foster,Bo
+18590,Cat,Calico,F,9,Adoptable,Kennel,Shelly
+18598,Dog,Pit Bull Lab Mix,M,6,Adoptable,Kennel,Teddy
+18606,Cat,American Shorthair,F,4,Adoptable,Kennel,Sam
+18614,Cat,Calico,F,4,Adoptable,Foster,Pip
+18622,Dog,American Staffordshire Terrier,F,4,Adoptable,Kennel,Lenna
+18630,Dog,American Staffordshire Terrier,M,4,Adoptable,Kennel,Louie
+18638,Dog,Dachshund,M,6,Hold,Kennel,
+18646,Dog,German Shepard,M,7,Processing,Kennel,
+18654,Cat,Scottish Fold,F,3,Adoptable,Kennel,Lily
+18662,Dog,Boxer,F,3,Adoptable,Kennel,Harley
+18670,Dog,Labrador Retriever,M,4,Processing,Kennel,Max
+18678,Dog,Pit Bull Boxer Mix,F,5,Adoptable,Foster,Jinx
+18686,Cat,Orange Tabby,F,3,Adoptable,Foster,Boots
+18694,Cat,American Curl,F,7,Adoptable,Kennel,
+18702,Dog,Rat Terrier ,M,2,Adoptable,Foster,Rocky Road
+18710,Dog,Golden Retriever,M,7,Adoptable,Kennel,Macaroni
+18718,Dog,Boxer,M,6,Adoptable,Kennel,
+18726,Dog,Pit Bull Terrier Mix,M,8,Adoptable,Kennel,Mr. Socks
+18734,Cat,Calico,F,4,Adoptable,Kennel,Tux
+18742,Dog,Beagle,M,6,Adoptable,Kennel,
+18750,Dog,Golden Retriever,F,3,Adoptable,Kennel,
+18758,Dog,Dachshund,M,7,Adoptable,Kennel,Bandit
+18766,Dog,Pit Bull Terrier Mix,M,2,Processing,Kennel,
+18774,Cat,Scottish Fold,M,1,Adoptable,Kennel,Jack
+18782,Dog,Beagle,M,1,Adoptable,Kennel,
+18790,Dog,Chihuahua,F,6,Adoptable,Kennel,Stacy
+18798,Cat,Scottish Fold,F,8,Adoptable,Kennel,
+18806,Cat,Orange Tabby,F,3,Adoptable,Kennel,
+18814,Cat,Orange Tabby,M,4,Adoptable,Foster,Bosse-de-Nage
+18822,Dog,Rhodesian Ridgeback,F,8,Processing,Kennel,Seymour Butz
+18830,Dog,Akita Inu,M,12,Adoptable,Foster,Mogwai
+18838,Dog,Labrador Retriever,M,7,Adoptable,Kennel,Danava
+18846,Dog,Australian Shepard,F,6,Adoptable,Foster,Mad Max
+18854,Cat,Siamese,M,9,Adoptable,Foster,Doobert
+18862,Dog,Chihuahua,F,5,Processing,Kennel,ProCo Rat
+18870,Cat,Maine Coon,M,14,Adoptable,Foster,Scoopston
+18878,Dog,Shiba Inu,M,10,Adoptable,Foster,Denali
+18886,Cat,Calico,F,8,Hold,Kennel,Artyom
+18894,Dog,Pug,F,4,Adoptable,Foster,Smegma
+18902,Cat,Scottish Fold,M,1,Hold,Kennel,Bob
+18910,Cat,Scottish Fold,M,1,Hold,Kennel,Bob's evil twin
+18918,Dog,Siberian Huskey,F,4,Adoptable,Foster,Arya
+18926,Cat,American Shorthair,M,3,Adoptable,Kennel,Psi
+18934,Dog,Jack-a-Poo,M,3,Adoptable,Kennel,Minecraft
+18942,Dog,Labrador Retriever,F,8,Adoptable,Foster,Bailey
+18950,Cat,Siberian,F,1,Processing,Kennel,Athena
+18958,Dog,Jack Russell Terrier,M,5,Adoptable,Kennel,Ziggy
+18966,Dog,Mix,F,6,Adoptable,Foster,JuneBug
+18974,Dog,Beagle,F,1,Adoptable,Kennel,Taco
+18982,Cat,British Longhair,M,3,Hold,Kennel,Smokey
+18990,Dog,Border Collie,F,2,Adoptable,Foster,Merlin
+18998,Cat,Van Cat,M,7,Adoptable,Kennel,Boo
+19006,Dog,Austrian Sheperd,M,1,Processing,Kennel,Lincoln
+19014,Dog,American Pit Bull Terrier,M,2,Adoptable,Foster,Sokka
+19022,Cat,Ragdoll,F,5,Adoptable,Foster,Piper
+19030,Dog,Jack Chi,M,3,Hold,Kennel,Peanut
+19038,Dog,Mix,F,1,Adoptable,Foster,Korra
+19046,Cat,American Curl,F,2,Adoptable,Kennel,Yue
+19054,Cat,Chartreux,M,1,Adoptable,Foster,Soul
+19062,Cat,Maine Coon,M,2,Adoptable,Kennel,Boots
+19070,Dog,Rat Terrier ,F,3,Adoptable,Foster,Levi
+19078,Dog,Mix,M,2,Hold,Kennel,Moose
+19086,Cat,Bombay,F,7,Adoptable,Foster,Midnight
+19094,Dog,Mix,F,4,Processing,Kennel,Bella
+19102,Cat,Calico,M,4,Processing,Foster,Anakin
+19110,Dog,Dalmation,M,6,Adoptable,Kennel,Obi-wan
+19118,Dog,Rottweilier,M,6,Hold,kennel,Mace Windu
+19126,Cat,Hairless,M,16,Hold,Kennel,The Senate
+19134,Cat,Black,M,8,Adoptable,Foster,Huey P. Newton
+19142,Cat,Orange Tabby,F,3,Adoptable,Foster,Samantha(<3)
+19150,Cat,Siamese,F,18,Processing,Kennel,Market Crash
+19158,Dog,Mix,M,3,Adoptable,Foster,Poop
+19166,Dog,Maltese,M,7,Adoptable,Kennel,Nash
+19174,Dog,Chihuahua,F,5,Adoptable,Kennel,Mango Juul Pod
+19182,Dog,Doberman,M,8,Adoptable,Kennel,Dovahkiin
+19190,Dog,Yorkie,M,4,Hold,Kennel,Ozzie Albies
+19198,Dog,Bull Terrier,M,7,Hold,Kennel,Bud Light
+19206,Cat,Calico,M,4,Hold,Kennel,Augustus
+19214,Cat,Maine Coon,F,5,Processing,Foster,Aventure
+19222,Cat,Calico,F,2,Processing,Foster,Walkie Talkie
+19230,Dog,Basset Hound,M,3,Hold,Kennel,Zack Young
+19238,Cat,Calico,F,0.5,Adoptable,Foster,Maisy Young
+19246,Cat,Calico,F,6,Adoptable,Foster,Jenna Tolls
+19254,Cat,White,F,5,Adoptable,Foster,Kcaz Old
+19262,Dog,Chihuahua,M,1,Adoptable,Kennel,Caffeine
+19270,Dog,Pit Bull,M,4,processing,Kennel,Glizzy God
+19278,Dog,German Shepard,M,6,Processing,Kennel,Rocky
+19286,Cat,Black,F,3,Processing,Kennel,V3
+19294,Dog,Bullmastiff,M,2,Hold,Kennel,Fitnessgram
